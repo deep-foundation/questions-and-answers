@@ -4,7 +4,7 @@ I recently made a commit with git and realized I committed the wrong files, or t
 
 ---
 
-# Comprehensive Guide on Undoing Commits in Git
+# Undoing Commits in Git
 
 Undoing a commit in Git can be approached differently depending on whether the commit is local or has been made public. Here are four ways to undo a local commit:
 
